@@ -1,6 +1,7 @@
 ## Hi there 👋
 
-*Computer Science student specializing in Data Science — driven by logic, patterns, and quiet confidence.
+Computer Science student specializing in Data Science — driven by logic, patterns, and quiet confidence.
+
 A sharp observer and attentive listener, I read situations before I react and understand people as deeply as problems.
 Calm under pressure, fast to adapt, and confident in conversation — blending analytical strength with natural charisma.
 Disciplined in work, refined in presence.
