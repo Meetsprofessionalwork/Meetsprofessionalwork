@@ -1,11 +1,10 @@
 ## Hi there 👋
 
-I’m a *Computer Science student specializing in Data Science*, with a strong interest in data analysis, programming, and machine learning fundamentals.
-
-I’m actively building my technical foundation through coursework, hands-on practice, and academic projects—focusing on understanding concepts deeply and applying them practically. Known for being a keen observer, fast learner, and analytical thinker, I approach problems with a calm mindset and structured reasoning.
-
-Alongside technical growth, I value clear communication, collaboration, and continuous self-improvement—aiming to combine strong fundamentals with a confident, professional presence.
-
+*Computer Science student specializing in Data Science — driven by logic, patterns, and quiet confidence.
+A sharp observer and attentive listener, I read situations before I react and understand people as deeply as problems.
+Calm under pressure, fast to adapt, and confident in conversation — blending analytical strength with natural charisma.
+Disciplined in work, refined in presence.
+Focused on growth, mastery, and building influence with intelligence and style.
 ---
 
 ### 🔭 Currently working on
