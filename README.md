@@ -1,32 +1,59 @@
-## Hi there 👋
+<h1 align="left">Hi 👋, I'm Meet</h1>
 
-Computer Science student specializing in Data Science — driven by logic, patterns, and quiet confidence.
-A sharp observer and attentive listener, I read situations before I react and understand people as deeply as problems.
-Calm under pressure, fast to adapt, and confident in conversation — blending analytical strength with natural charisma.
-Disciplined in work, refined in presence.
-Focused on growth, mastery, and building influence with intelligence and style.
+<h3 align="right">
+A sharp observer and attentive listener.
+</h3>
+
+<p align="right">
+Disciplined in work, refined in presence. Focused on growth, mastery, and building influence with intelligence and style.</br> 
+I observe first, move deliberately, and solve problems with depth.</br> 
+I observe first, think deeply, and solve problems
+</p>
+
 ---
 
-### 🔭 Currently working on
-- Academic and personal projects in *Data Analysis & Programming*
-- Strengthening problem-solving and coding fundamentals
+### 🧠 About Me
 
-### 🌱 Currently learning
-- Machine Learning basics
-- Data structures and algorithms
-- Practical applications of Python for data-driven tasks
+* CS student specializing in **AI & Data**
+* Practical **AI Generalist**
+* I read situations before I react and understand people as deeply as problems.
 
-### 👯 Open to collaborate on
-- Beginner to intermediate *Data Science projects*
-- Learning-focused open-source contributions
+---
 
-### 💬 Ask me about
-- Data Science fundamentals
-- Python programming
-- Learning strategies for CS students
+### 🚀 What I Do
 
-### 📫 How to reach me
-- GitHub: @Meetsprofessionalwork
-- AND by mine SOCIAL NETWORK
+* Data analysis & programming projects
+* Strong foundations in problem-solving and coding
+* Building clear, efficient, real-world systems
 
-⚡ Learning fast. Thinking deeper.
+---
+
+### 📚 Currently Learning
+
+* Machine Learning
+* Data Structures & Algorithms
+* Python for data-driven thinking
+
+Focused on **mastery over noise**.
+
+---
+
+### 🤝 Open To
+
+* Beginner–intermediate data science projects
+* Learning-focused collaborations
+* Clean, thoughtful teamwork
+
+---
+
+### 🌐 Links
+
+* 👨‍💻 GitHub: **@Meetsprofessionalwork**
+* 🌍 Portfolio: [https://meetwebhub.vercel.app](https://meetwebhub.vercel.app)
+
+---
+
+### ⚡ Personal Note
+
+Quiet confidence beats loud talent.
+I move fast when needed — slow when it matters.
